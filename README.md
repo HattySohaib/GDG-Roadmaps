@@ -22,4 +22,4 @@ The GDG Roadmaps project aims to provide learners with clear and structured path
 
 ## Contribution
 
-We welcome contributions from the community to improve and expand these roadmaps. If you have any suggestions or would like to contribute, please refer to the [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community to improve and expand these roadmaps. If you have any suggestions or would like to contribute, please raise a PR.
