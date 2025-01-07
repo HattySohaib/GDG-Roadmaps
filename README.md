@@ -11,13 +11,13 @@ The GDG Roadmaps project aims to provide learners with clear and structured path
 
 ## Roadmaps and Resources
 
-- **Web Development**
+**Web Development**
 - https://github.com/harshkandera/gdg
   
-- **AI ML and Cloud**
+**AI ML and Cloud**
 - https://github.com/Anupriya-99/Google-Cloud-Roadmap-Resources
   
-- **DSA**
+**DSA**
 - https://github.com/ishank-kumar/GDSC-resouces
 
 ## Contribution
